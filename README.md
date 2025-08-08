@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # KittenTTS Gradio Interface
 
 This is a simple Gradio interface for the KittenTTS text-to-speech model.
@@ -13,8 +12,8 @@ This is a simple Gradio interface for the KittenTTS text-to-speech model.
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/NidAll/kitten-tts-gradio/
+   cd https://github.com/NidAll/kitten-tts-gradio/
    ```
 
 2. Create a virtual environment:
@@ -59,4 +58,3 @@ Available voices:
 This interface uses the [KittenTTS](https://github.com/KittenML/KittenTTS) model, an ultra-lightweight text-to-speech model with just 15 million parameters.
 =======
 # kitten-tts-gradio
->>>>>>> 309845ae123127be455811fa1588327d5b5b947a
